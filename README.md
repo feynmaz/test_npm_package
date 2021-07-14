@@ -1,8 +1,8 @@
 # TrendTech
 
-Загружен в [npm](https://www.npmjs.com/package/@feynmaz/trendtech-test)
+Загружен в [npm](https://www.npmjs.com/package/@feynmaz/trendtech-test).
 
-Для использования:
+<h3>Для использования</h3>
 
 1. Выполнить
 ```
