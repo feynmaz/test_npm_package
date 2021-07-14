@@ -1,0 +1,23 @@
+{
+  "name": "trendtech",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha || true"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/feynmaz/TrendTech.git"
+  },
+  "author": "https://github.com/feynmaz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/feynmaz/TrendTech/issues"
+  },
+  "homepage": "https://github.com/feynmaz/TrendTech#readme",
+  "dependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^9.0.2"
+  }
+}
