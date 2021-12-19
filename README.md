@@ -1,4 +1,4 @@
-# TrendTech
+# test-npm-package
 
 Загружен в [npm](https://www.npmjs.com/package/@feynmaz/trendtech-test).
 
